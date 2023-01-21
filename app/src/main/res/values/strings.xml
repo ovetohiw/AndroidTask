@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">AndroidTestTask</string>
+    <string name="scheme_network">SCHEME / NETWORK</string>
+    <string name="enter_the_first_digits_of_a_card_number_bin_iin">Enter the first digits of a card number (BIN/IIN)</string>
+    <string name="type">TYPE</string>
+    <string name="bank">BANK</string>
+    <string name="brand">BRAND</string>
+    <string name="repaid">REPAID</string>
+    <string name="card_number">CARD NUMBER</string>
+    <string name="length">Length</string>
+    <string name="luhn">LUHN</string>
+    <string name="country">COUNTRY</string>
+    <string name="questionMark">\?</string>
+</resources>
